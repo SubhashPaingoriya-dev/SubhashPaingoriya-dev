@@ -127,118 +127,97 @@ Strong in: **Arrays, Strings, Trees, Graphs, Dynamic Programming, Hashmaps**
   Open to backend internship opportunities · Available in Jaipur
 </p> -->
 
+<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Subhash%20Paingoriya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=16"/>
+
 <div align="center">
 
-<!-- Animated Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Subhash+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Competitive+Programmer+%7C+LeetCode+1791%2B;Building+things+that+actually+work." alt="Typing SVG" />
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+production-ready+APIs+%F0%9F%9A%80;OpenAI+%2B+Node.js+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;LeetCode+1791%2B+%7C+Top+10%25+Globally+%F0%9F%8F%86;700%2B+Problems+Solved+and+Counting...;Let%27s+build+something+great+together!" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhash-paingoriya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/SubhashPaingoriya-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SubhashPaingoriya-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhashpaingoriya21@gmail.com)
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=SubhashPaingoriya-dev&style=flat-square&color=00D9FF&label=Profile+Views)
+<!-- Badges Row -->
+[![LinkedIn](https://img.shields.io/badge/-subhash--paingoriya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhash-paingoriya)
+[![LeetCode](https://img.shields.io/badge/-1791%2B%20Rating-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/SubhashPaingoriya-dev)
+[![Gmail](https://img.shields.io/badge/-subhashpaingoriya21-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subhashpaingoriya21@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=SubhashPaingoriya-dev&style=flat-square&color=58A6FF&label=visitors)](https://github.com/SubhashPaingoriya-dev)
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhashPaingoriya-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=6"/>
 
-```javascript
-const subhash = {
-  role        : "Backend Developer & Competitive Programmer",
-  education   : "B.Tech CSE @ JECRC, Jaipur (Expected May 2026)",
-  languages   : ["C++", "JavaScript", "Python", "SQL"],
-  stack       : ["Node.js", "Express.js", "MongoDB", "React", "REST APIs"],
-  currentFocus: "Building scalable backend systems + crushing DSA",
-  leetcode    : "1791+ Rating | Top 10% | 700+ problems solved",
-  sports      : "🏀 Gold (Regional) | ⚽ Gold (District) | 🤾 2× Bronze (Regional)",
-  funFact     : "I debug faster after a basketball game 🏀",
-};
+### 👋 Who Am I?
+
+```ts
+interface Developer {
+  name:     "Subhash Paingoriya";
+  location: "Jaipur, Rajasthan 🇮🇳";
+  degree:   "B.Tech CSE @ JECRC (2026)";
+  cgpa:     8.88;
+  focus:    ["Backend APIs", "DSA", "AI Integration"];
+  building: "Smart, scalable, AI-powered systems";
+  ask_me:   "Node.js · MongoDB · REST APIs · C++";
+}
 ```
 
----
+- 🔭 Currently building **AI-integrated REST APIs** with OpenAI
+- 💡 Passionate about writing code that **ships, not just compiles**
+- ⚡ Competitive programmer — **LeetCode Top 10%** worldwide
+- 🏅 Multi-sport athlete — Gold medals in Basketball & Football
+- 📫 Open to **SDE internships & full-time roles**
 
-## 🚀 Projects
-
-### 🤖 Smart Notes API with AI Summary
-> `Node.js` · `Express.js` · `MongoDB` · `JWT` · `OpenAI GPT-4o-mini` · **2025**
-
-A **production-ready REST API** that combines secure note management with AI-powered intelligence.
-
-- 🔐 **8 fully-tested endpoints** — complete CRUD locked behind JWT authentication
-- ✨ **Auto AI Summarization** — every saved note triggers GPT-4o-mini to generate a 2-line summary + 3 smart tags
-- ⚡ **Sub-60ms response times** — clean Mongoose schema keeps queries tight
-- 🚀 **Live on Render.com** — zero endpoint failures on launch | `.env` secured secrets
-
-[![Live](https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=flat-square)](https://render.com)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/SubhashPaingoriya-dev)
+<br clear="right"/>
 
 ---
 
-### 🎬 IMAGIX – Movie Streaming Website
-> `ReactJS` · `Tailwind CSS` · `JavaScript` · `HTML` · **Apr 2025 – Jul 2025**
+## 🛠 Tech Arsenal
 
-A **fully responsive movie streaming UI** built with component-driven architecture.
+<div align="center">
 
-- 📱 **Mobile-to-desktop responsive** — zero layout breakage across all tested screen sizes
-- ♻️ **~40% less code** compared to vanilla JS — thanks to React component reusability
-- 🎨 **Entire styling layer in <200 lines** — utility-first Tailwind over bloated custom CSS
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/SubhashPaingoriya-dev)
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Backend & APIs
+#### ⚙️ Backend & Core
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Databases
+#### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms
+#### 🖥️ Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+#### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
+</div>
+
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubhashPaingoriya-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhashPaingoriya-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SubhashPaingoriya-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SubhashPaingoriya-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=SubhashPaingoriya-dev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E"/>
 
 </div>
 
@@ -248,48 +227,80 @@ A **fully responsive movie streaming UI** built with component-driven architectu
 
 <div align="center">
 
-| Platform | Stats |
-|----------|-------|
-| 🟡 **LeetCode** | **1791+ Rating** · Top 10% Globally · 700+ Problems Solved |
-| 📗 **GFG** | Completed **160 Days of Problem Solving** Challenge |
-
-</div>
-
-> _"Consistent problem-solving is a habit, not a talent."_
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **Gold Medal** — Basketball (Regional Level)
-- 🥇 **Gold Medal** — Football (District Level)
-- 🥉 **2× Bronze Medals** — Handball (Regional Level)
-- 🎓 **Frontend Development Training** — Upflairs Pvt. Ltd. (HTML · Tailwind · JavaScript)
-- 🤖 **Robotics Club Member** — Xananoids, JECRC
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/output/github-contribution-grid-snake-dark.svg)
-
-> ⚠️ _To enable this, set up the [Snake GitHub Action](https://github.com/Platane/snk) in your repo._
+<table>
+<tr>
+<td align="center" width="220">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/><br/>
+  <b>1791+ Rating</b><br/>
+  <sub>Top 10% Globally</sub><br/>
+  <sub>700+ Problems Solved</sub>
+</td>
+<td align="center" width="220">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/><br/>
+  <b>160-Day Streak</b><br/>
+  <sub>GFG Problem Solving Challenge</sub><br/>
+  <sub>Algorithms · DS · Optimization</sub>
+</td>
+<td align="center" width="220">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><br/>
+  <b>Primary Language</b><br/>
+  <sub>STL · Competitive Programming</sub><br/>
+  <sub>Mathematical Problem Solving</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+## 🏆 Highlights
+
 <div align="center">
 
-### 💬 Let's Connect & Build Something Cool
+| 🏅 Achievement | 📌 Detail |
+|---|---|
+| 🥇 Basketball | Gold Medal — Regional Level |
+| 🥇 Football | Gold Medal — District Level |
+| 🥉 Handball | 2× Bronze Medals — Regional Level |
+| 🎓 Frontend Training | Upflairs Pvt. Ltd. — HTML · Tailwind · JS |
+| 🤖 Robotics | Xananoids Club, JECRC — Team Competitions |
+| 🧠 LeetCode | **1791+ Rating** · Top 10% · 700+ Solved |
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhash-paingoriya)
-[![Email](https://img.shields.io/badge/Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhashpaingoriya21@gmail.com)
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> ⚙️ _Enable with [Platane/snk](https://github.com/Platane/snk) GitHub Action — 5 min setup_
+
+</div>
+
+---
+
+<div align="center">
+
+### 📬 Open to Opportunities
+
+**SDE Internships · Backend Roles · Full-Stack Positions**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhash-paingoriya)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhashpaingoriya21@gmail.com)
 
 <br/>
 
-_"I write code that ships, not just code that works in theory."_
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
