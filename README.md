@@ -141,7 +141,6 @@ Strong in: **Arrays, Strings, Trees, Graphs, Dynamic Programming, Hashmaps**
 [![LinkedIn](https://img.shields.io/badge/-subhash--paingoriya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhash-paingoriya)
 [![LeetCode](https://img.shields.io/badge/-1791%2B%20Rating-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/SubhashPaingoriya-dev)
 [![Gmail](https://img.shields.io/badge/-subhashpaingoriya21-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:subhashpaingoriya21@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SubhashPaingoriya-dev&style=flat-square&color=58A6FF&label=visitors)](https://github.com/SubhashPaingoriya-dev)
 
 </div>
 
