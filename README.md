@@ -280,7 +280,7 @@ interface Developer {
   <img alt="contribution snake" src="https://raw.githubusercontent.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-> ⚙️ _Enable with [Platane/snk](https://github.com/Platane/snk) GitHub Action — 5 min setup_
+![snake gif](https://github.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/blob/output/github-snake.svg)
 
 </div>
 
