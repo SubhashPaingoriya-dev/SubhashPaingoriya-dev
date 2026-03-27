@@ -22,7 +22,7 @@
 
 I'm a final-year Computer Science student who got tired of building dashboards and decided to move where the real logic lives — the backend.
 
-I spend most of my time writing APIs, thinking about how data should be structured, and solving problems on LeetCode (1791+ rating, 700+ problems solved). I like understanding *why* something works, not just *that* it works.
+I spend most of my time writing APIs, thinking about how data should be structured, and solving problems on LeetCode (1791+ rating, 900+ problems solved). I like understanding *why* something works, not just *that* it works.
 
 Currently building backend projects with Node.js, Express, and MongoDB — with AI integration using the OpenAI API because just CRUD is boring.
 
@@ -74,8 +74,15 @@ Currently building backend projects with Node.js, Express, and MongoDB — with 
 
 ### 🚀 Featured Projects
 
-#### [Smart Notes API with AI Summary](https://github.com/SubhashPaingoriya-dev/smart-notes-api)
-> Node.js · Express.js · MongoDB · JWT · OpenAI API · Deployed on Render
+### 🚀 Smart Notes API (AI Powered)
+
+- Built a production-ready REST API handling **X+ requests/day**
+- Integrated OpenAI to auto-generate summaries → reduced reading time by ~60%
+- Implemented JWT auth with secure route protection
+- Designed scalable MongoDB schema (indexed queries, optimized reads)
+- Deployed on Render with live endpoint
+
+👉 Tech: Node.js · Express · MongoDB · OpenAI · JWT
 
 A backend REST API where every note you save automatically gets an AI-generated summary and tags — powered by GPT-4o-mini. 8 fully tested endpoints, JWT-protected routes, clean Mongoose schema, and live on Render.
 
@@ -96,7 +103,7 @@ A responsive movie streaming UI built with React components and Tailwind CSS. Cl
 
 | Platform | Stats |
 |---|---|
-| LeetCode | 1791+ Rating · Top 10% · 700+ problems solved |
+| LeetCode | 1791+ Rating · Top 10% · 900+ problems solved |
 | GeeksForGeeks | Completed GFG 160 Days of Problem Solving |
 
 Strong in: **Arrays, Strings, Trees, Graphs, Dynamic Programming, Hashmaps**
@@ -133,7 +140,7 @@ Strong in: **Arrays, Strings, Trees, Graphs, Dynamic Programming, Hashmaps**
 <div align="center">
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+production-ready+APIs+%F0%9F%9A%80;OpenAI+%2B+Node.js+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;LeetCode+1791%2B+%7C+Top+10%25+Globally+%F0%9F%8F%86;700%2B+Problems+Solved+and+Counting...;Let%27s+build+something+great+together!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+production-ready+APIs+%F0%9F%9A%80;OpenAI+%2B+Node.js+%2B+MongoDB+%3D+%E2%9D%A4%EF%B8%8F;LeetCode+1791%2B+%7C+Top+10%25+Globally+%F0%9F%8F%86;900%2B+Problems+Solved+and+Counting...;Let%27s+build+something+great+together!" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -210,13 +217,35 @@ interface Developer {
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats & Consistency
+
+- 📈 Daily coding streak + consistent commits
+- ⚡ Focused on backend systems & DSA
 
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SubhashPaingoriya-dev&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=SubhashPaingoriya-dev&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+<!-- <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SubhashPaingoriya-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"/>
 
 <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=SubhashPaingoriya-dev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideNums=8B949E&sideLabels=8B949E&dates=8B949E"/>
+
+</div> -->
+## 📊 GitHub Stats & Consistency
+
+- 📈 Daily coding streak + consistent commits
+- ⚡ Focused on backend systems & DSA
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SubhashPaingoriya-dev&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=SubhashPaingoriya-dev&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -232,7 +261,7 @@ interface Developer {
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/><br/>
   <b>1791+ Rating</b><br/>
   <sub>Top 10% Globally</sub><br/>
-  <sub>700+ Problems Solved</sub>
+  <sub>400+ Problems Solved</sub>
 </td>
 <td align="center" width="220">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/><br/>
@@ -264,7 +293,7 @@ interface Developer {
 | 🥉 Handball | 2× Bronze Medals — Regional Level |
 | 🎓 Frontend Training | Upflairs Pvt. Ltd. — HTML · Tailwind · JS |
 | 🤖 Robotics | Xananoids Club, JECRC — Team Competitions |
-| 🧠 LeetCode | **1791+ Rating** · Top 10% · 700+ Solved |
+| 🧠 LeetCode | **1791+ Rating** · Top 10% · 900+ Solved |
 
 </div>
 
@@ -272,7 +301,7 @@ interface Developer {
 
 ## 🐍 My Contributions
 
-<div align="center">
+<!-- <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/output/github-contribution-grid-snake-dark.svg"/>
@@ -280,7 +309,25 @@ interface Developer {
   <img alt="contribution snake" src="https://raw.githubusercontent.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/blob/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/blob/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://github.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/blob/output/github-snake.svg">
+  </picture>
+</p>
+
 ![snake gif](https://github.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/blob/output/github-snake.svg)
+
+</div> -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SubhashPaingoriya-dev/SubhashPaingoriya-dev/output/github-snake.svg"/>
+</picture>
 
 </div>
 
